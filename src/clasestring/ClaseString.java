@@ -68,6 +68,7 @@ public class ClaseString {
         System.out.println("s2 en mayus: " + mayusculas);
         System.out.println("String mayusculas en minusc: " + mayusculas.toLowerCase());
         
+        System.out.println("Alberto caracuel");
     }
     
 }
